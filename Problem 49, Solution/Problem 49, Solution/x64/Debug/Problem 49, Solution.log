@@ -1,0 +1,3 @@
+﻿  Problem 49, Solution.cpp
+D:\source\07 - Problem Solving\Problem 49, Solution\Problem 49, Solution\Problem 49, Solution.cpp(31,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 49, Solution.vcxproj -> D:\source\07 - Problem Solving\Problem 49, Solution\x64\Debug\Problem 49, Solution.exe

@@ -1,0 +1,4 @@
+﻿  Problem 48, Solution.cpp
+D:\source\07 - Problem Solving\Problem 48, Solution\Problem 48, Solution\Problem 48, Solution.cpp(25,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\07 - Problem Solving\Problem 48, Solution\Problem 48, Solution\Problem 48, Solution.cpp(111,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Problem 48, Solution.vcxproj -> D:\source\07 - Problem Solving\Problem 48, Solution\x64\Debug\Problem 48, Solution.exe

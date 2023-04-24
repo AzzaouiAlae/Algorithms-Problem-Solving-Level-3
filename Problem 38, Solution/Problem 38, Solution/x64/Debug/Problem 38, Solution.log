@@ -1,0 +1,3 @@
+﻿  Problem 38, Solution.cpp
+D:\source\07 - Problem Solving\Problem 38, Solution\Problem 38, Solution\Problem 38, Solution.cpp(18,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Problem 38, Solution.vcxproj -> D:\source\07 - Problem Solving\Problem 38, Solution\x64\Debug\Problem 38, Solution.exe

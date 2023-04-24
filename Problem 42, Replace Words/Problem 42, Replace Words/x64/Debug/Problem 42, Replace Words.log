@@ -1,0 +1,3 @@
+﻿  Problem 42, Replace Words.cpp
+D:\source\07 - Problem Solving\Problem 42, Replace Words\Problem 42, Replace Words\Problem 42, Replace Words.cpp(10,36): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 42, Replace Words.vcxproj -> D:\source\07 - Problem Solving\Problem 42, Replace Words\x64\Debug\Problem 42, Replace Words.exe

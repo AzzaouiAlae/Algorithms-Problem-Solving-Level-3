@@ -1,0 +1,4 @@
+﻿  Problem 42, Replace Words (Custom).cpp
+D:\source\07 - Problem Solving\Problem 42, Replace Words (Custom)\Problem 42, Replace Words (Custom)\Problem 42, Replace Words (Custom).cpp(22,40): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\07 - Problem Solving\Problem 42, Replace Words (Custom)\Problem 42, Replace Words (Custom)\Problem 42, Replace Words (Custom).cpp(36,58): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 42, Replace Words (Custom).vcxproj -> D:\source\07 - Problem Solving\Problem 42, Replace Words (Custom)\x64\Debug\Problem 42, Replace Words (Custom).exe
